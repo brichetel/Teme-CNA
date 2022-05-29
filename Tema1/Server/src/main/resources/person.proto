@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "proto";
+
+service PersonService
+{
+  rpc getData(DataRequest) returns (DataResponse);
+}
+message DataRequest
+{
+  string name = 1;
+  string cnp = 2;
+}
+message DataResponse
+{
+  string name = 1;
+  string age = 2;
+  string gender = 3;
+}
+
+
