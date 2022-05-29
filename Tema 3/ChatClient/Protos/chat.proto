@@ -1,0 +1,20 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ChatClient";
+
+package chatter;
+
+service ChatService {
+    rpc chat(stream ChatRequest) returns (stream ChatReply);
+}
+message ChatRequest {
+    string name = 1;
+    string message = 2;
+    bool status = 3;
+}
+
+message ChatReply {
+    string name = 1;
+    string message = 2;
+    bool status = 3;
+}

@@ -1,0 +1,78 @@
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.exe
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.deps.json
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.json
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.dev.json
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfoInputs.cache
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfo.cs
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CopyComplete
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\Radina\Desktop\ANUL 2\CNA\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.genruntimeconfig.cache
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.exe
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.deps.json
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.json
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.dev.json
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfoInputs.cache
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfo.cs
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CopyComplete
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\Radina\Desktop\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.genruntimeconfig.cache
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.exe
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.deps.json
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.json
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.dev.json
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.AssemblyReference.cache
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfoInputs.cache
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfo.cs
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CopyComplete
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\opsid\Desktop\CNA\Chat\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.genruntimeconfig.cache
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.exe
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.deps.json
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.json
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.dev.json
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.AssemblyReference.cache
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfoInputs.cache
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfo.cs
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CopyComplete
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.dll
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.pdb
+C:\Users\opsid\Desktop\CNA Teme\Tema 3\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.genruntimeconfig.cache
