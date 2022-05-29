@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "proto";
+
+
+service Zodiac {
+
+  rpc getData (DataRequest) returns (DataResponse) {}
+
+}
+
+message DataRequest {
+  string dateOfBirth=1;
+
+}
+
+message DataResponse {
+  string dateOfBirth=1;
+  string zodiacSign=2;
+}
